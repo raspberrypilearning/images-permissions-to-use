@@ -16,4 +16,9 @@ With Creative Commons licensing you can give away all rights to your work, or ju
 
 Having Creative Commons licensing makes it easier for people to find images that they have permission to use. Many search engines now feature a way to search for these images so that people can avoid breaking copyright law.
 
+1)
+2)
+3)
+4)
+
 ### Other Ways to Find Images
