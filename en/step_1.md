@@ -1,4 +1,4 @@
-Because of Copyright Law, you cannot use everything you find on the web. Here, you will learn how to find images with the right permissions to use, So that you're not breaking copyright laws with your digital making.
+Because of Copyright Law, you cannot use everything you find on the web. Here, you will learn how to find images with the right permissions to use so that you're not breaking copyright laws with your digital making.
 
 ### Understanding Copyright Law
 
@@ -15,6 +15,8 @@ With Creative Commons licensing you can give away all rights to your work, or ju
 ### Searching for Images with Google
 
 Having Creative Commons licensing makes it easier for people to find images that they have permission to use. Many search engines now feature a way to search for these images so that people can avoid breaking copyright law.
+
+If you are using Google, follow the instructions below to find an image you can use in your digital making:
 
 1)
 2)
