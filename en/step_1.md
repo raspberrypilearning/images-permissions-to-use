@@ -22,7 +22,7 @@ Having Creative Commons licensing makes it easier for people to find images that
 
 If you are using Google, follow the instructions below to find an image you can use in your digital making:
 
-1) Go to Google Images, and type in what you are searching for. Here, I searched for cat fails:
+1) Go to Google Images, and type in what you are searching for. Here, we searched for cat fails:
 
 ![Cat Fail Search](images/catfailsearch.png)
 
