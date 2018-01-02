@@ -24,19 +24,19 @@ Many search engines also feature a way to search for images with a Creative Comm
 
 If you are using Google, follow the instructions below to find an image you can use in your digital making:
 
-1) Go to Google Images and type in what you are searching for. Here, we searched for `cat fail`:
++ Go to Google Images and type in what you are searching for. Here, we searched for `cat fail`:
 
 ![Cat Fail Search](images/catfailsearch.png)
 
-2) Click on **Search Tools**, then **Usage Rights**, and select **Labeled for Reuse**.
++ Click on **Search Tools**, then **Usage Rights**, and select **Labeled for Reuse**.
 
 ![Labeled for Reuse](images/labeledforreuse.png)
 
-3) Choose an image.
++ Choose an image.
 
 ![Cat Fail](images/catfail.png)
 
-4) Double-check whether it is free to use. You can use a reverse image search tool like [TinEye](https://www.tineye.com/){:target="_blank"} or [Image Raider](https://www.imageraider.com/){:target="_blank"} to check for any further usage rights. Here, I copied the image link from the Google search, pasted it into TinEye, and pressed **Search**. As I can see, it has been used many times by people all over the internet, so it is likely that it is free to use. If in doubt, you should write to the owner and ask for permission.
++ Double-check whether it is free to use. You can use a reverse image search tool like [TinEye](https://www.tineye.com/){:target="_blank"} or [Image Raider](https://www.imageraider.com/){:target="_blank"} to check for any further usage rights. Here, I copied the image link from the Google search, pasted it into TinEye, and pressed **Search**. As I can see, it has been used many times by people all over the internet, so it is likely that it is free to use. If in doubt, you should write to the owner and ask for permission.
 
 ![Reverse Search](images/reversesearch.png)
 
