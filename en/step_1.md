@@ -12,9 +12,7 @@ If you want to use an image for which you require permission, you will need to o
 
 ### Creative Commons
 
-Creative Commons licensing allows the creator of an image to select which permissions they want to give to people, for free.
-
-With Creative Commons licensing you can give away all rights to your work, or just some of them. The [Creative Commons site](https://creativecommons.org/){:target="_blank"} has an online form that helps you to configure exactly which of your rights you want to give away.
+Creative Commons licensing allows the creator of an image to select which permissions they want to give to people to their work for free. With Creative Commons licensing you can give away all rights to your work, or just some of them. The [Creative Commons site](https://creativecommons.org/){:target="_blank"} has an online form that helps you to configure exactly which of your rights you want to give away.
 
 Having Creative Commons licensing makes it easier for people to find images that they have permission to use. On the Creative Commons website, there is a [search tool](https://search.creativecommons.org/){:target="_blank"}, which you can use to find images that have a Creative Commons license. Another good place to look for images available under a Creative Commons license is [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"}.
 
