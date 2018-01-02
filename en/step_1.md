@@ -4,7 +4,7 @@ Because of copyright law, you cannot use everything you find on the web. Below y
 
 Copyright law is designed to protect creators of artistic, literary, musical, and dramatic works from having their work exploited or misused. This means that copyright law applies to all manner of materials offline and online, including images and art work.
 
-Anyone who uses a copyrighted work without the owners' permission is guilty of copyright infringement. This is sometimes true even if the work has been changed significantly.
+Anyone who uses a copyrighted work without the owners' permission is guilty of copyright infringement. This is sometimes true even if a lot of things have been changed about the work.
 
 Many images on the internet are protected by copyright. The copyright symbol © does not have to be present in the image for copyright to exist.
 
@@ -12,9 +12,9 @@ If you want to use an image for which you require permission, you will need to o
 
 ### Creative Commons
 
-Creative Commons licensing allows the creator of an image to select which permissions they want to give to people to their work for free. With Creative Commons licensing you can give away all rights to your work, or just some of them. The [Creative Commons site](https://creativecommons.org/){:target="_blank"} has an online form that helps you to configure exactly which of your rights you want to give away.
+Creative Commons licensing allows the creator of an image to select which permissions they want to give to people to their work for free. With Creative Commons licensing you can give away all rights to your work, or just some of them. There is an online form on the [Creative Commons website](https://creativecommons.org/){:target="_blank"} that helps you to configure exactly which of your rights you want to give away.
 
-Having Creative Commons licensing makes it easier for people to find images that they have permission to use. On the Creative Commons website, there is a [search tool](https://search.creativecommons.org/){:target="_blank"}, which you can use to find images that have a Creative Commons license. Another good place to look for images available under a Creative Commons license is [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"}.
+Creative Commons licensing makes it easier for people to find images that they have permission to use. On the Creative Commons site, there is a [search tool](https://search.creativecommons.org/){:target="_blank"} you can use to find images that have a Creative Commons license. Another good place to look for images available under a Creative Commons license is [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"}.
 
 Many search engines also feature a way to search for images with a Creative Commons license so that people can avoid breaking copyright law.
 
