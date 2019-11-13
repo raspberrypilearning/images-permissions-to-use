@@ -1,43 +1,43 @@
-Because of copyright law, you cannot use everything you find on the web. Here you will learn how to find images that you can use in your digital making without breaking copyright laws.
+En raison du droit d'auteur, tu ne peux pas utiliser tout ce que tu trouves sur le Web. Ici, tu apprendras comment trouver des images que tu peux utiliser dans ta création numérique sans enfreindre les lois sur le droit d'auteur.
 
-### Understanding copyright law
+### Comprendre le droit d'auteur
 
-Copyright law is designed to protect creators of artistic, literary, musical, and dramatic works from having their work exploited or misused. This means that copyright law applies to all manner of materials offline and online, including images and art work.
+La loi sur le droit d'auteur vise à protéger les créateurs d'œuvres artistiques, littéraires, musicales et dramatiques de l'exploitation ou de la mauvaise utilisation de leurs œuvres. Cela signifie que la loi sur le droit d'auteur s'applique à tous les types de matériel hors ligne et en ligne, y compris les images et les œuvres d'art.
 
-Anyone who uses a copyrighted work without the owners' permission is guilty of copyright infringement. This is sometimes true even if a lot of things have been changed about the work.
+Quiconque utilise une œuvre protégée par le droit d'auteur sans l'autorisation des propriétaires est coupable de violation du droit d'auteur. Cela est parfois vrai même si beaucoup de choses ont changé dans le travail.
 
-Many images on the internet are protected by copyright. The copyright symbol © does not have to be present in the image for copyright to exist.
+De nombreuses images sur Internet sont protégées par le droit d'auteur. Le symbole de copyright © ne doit pas obligatoirement être présent dans l'image pour que le copyright existe.
 
-If you want to use an image for which you require permission, you will need to obtain permission from all the copyright owners. Otherwise, you can search for images that are free for you to use through Creative Commons licensing.
+Si tu souhaites utiliser une image pour laquelle tu as besoin d'une autorisation, tu devras obtenir l'autorisation de tous les détenteurs de droits d'auteur. Sinon, tu peux rechercher des images que tu peux utiliser gratuitement avec les licences Creative Commons.
 
 ### Creative Commons
 
-Creative Commons licensing allows the creator of an image to select which permissions they want to give to people to their work for free. With Creative Commons licensing you can give away all rights to your work, or just some of them. There is an online form on the [Creative Commons website](https://creativecommons.org/){:target="_blank"} that helps you to figure out exactly which of your rights you want to give away.
+Les licences Creative Commons permettent au créateur d’une image de sélectionner gratuitement les autorisations qu’ils souhaitent accorder aux utilisateurs. Avec les licences Creative Commons, tu peux céder tous les droits sur ton travail, ou seulement certains d'entre eux. Il existe un formulaire en ligne sur le site Web [Creative Commons](https://creativecommons.org/){: target = "_ blank"} qui t'aide à déterminer exactement quels droits tu souhaites céder.
 
-Creative Commons licensing makes it easier for people to find images that they have permission to use. On the Creative Commons site, there is a [search tool](https://search.creativecommons.org/){:target="_blank"} you can use to find images that have a Creative Commons license. Another good place to look for images available under a Creative Commons license is [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"}.
+Les licences Creative Commons facilitent la recherche d’images qu’elles sont autorisées à utiliser. Sur le site Creative Commons, il y a [outil de recherche](https://search.creativecommons.org/){: target = "_ blank"} que tu peux utiliser pour trouver des images qui ont une licence Creative Commons. Un autre bon endroit pour chercher des images disponibles sous licence Creative Commons est [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page){: target = "_ blank"}.
 
-Many search engines also feature a way to search for images with a Creative Commons license, so that people can avoid breaking copyright law.
+De nombreux moteurs de recherche offrent également un moyen de rechercher des images avec une licence Creative Commons, afin que les utilisateurs ne puissent enfreindre la loi sur le droit d'auteur.
 
-### Searching for images with Google
+### Recherche d'images avec Google
 
-If you are using Google, follow the instructions below to find an image you can use in your digital making:
+Si tu utilises Google, suis les instructions ci-dessous pour trouver une image que tu peux utiliser dans ta création numérique:
 
-+ Go to Google Images and type in what you are searching for. Here, we searched for `cat fail`:
++ Va sur Google Images et tape ce que tu recherches. Ici, nous avons recherché `cat fail`:
 
-![Cat Fail Search](images/catfailsearch.png)
+![Recherche Cat Fail](images/catfailsearch.png)
 
-+ Click on **Search Tools**, then **Usage Rights**, and select **Labeled for reuse**.
++ Clique sur **Outils de recherche**, ensuite **Droits d'usage** et sélectionne **Réutilisation autorisée**.
 
-![Labeled for Reuse](images/labeledforreuse.png)
+![Réutilisation autorisée](images/labeledforreuse.png)
 
-+ Choose an image.
++ Choisis une image.
 
 ![Cat Fail](images/catfail.png)
 
-+ Double-check whether it is free to use. You can use a reverse image search tool like [TinEye](https://www.tineye.com/){:target="_blank"} or [Image Raider](https://www.imageraider.com/){:target="_blank"} to check for any further usage rights. Here, I copied the image link from the Google search, pasted it into TinEye, and pressed **Search**. As you can see, the image has been used many times (781!) all over the internet, so it is likely that it is free to use. If in doubt, you should write to the owner and ask for permission.
++ Vérifie à deux fois si son utilisation est libre. Tu peux utiliser un outil de recherche d'image inversée tel que [TinEye](https://www.tineye.com/){: target = "_ blank"} ou [Image Raider](https://www.imageraider.com/){: target = "_ blank"} pour rechercher d'autres droits d'utilisation. Ici, j'ai copié le lien de l'image à partir de la recherche Google, je l'ai collé dans TinEye et j'ai appuyé sur **Recherche**. Comme tu peux le constater, l'image a été utilisée à plusieurs reprises (781!) sur Internet, il est donc probable qu'elle soit libre d'utilisation. En cas de doute, tu devras écrire au propriétaire et demander la permission.
 
-![Reverse Search](images/reversesearch.png)
+![Recherche inversée](images/reversesearch.png)
 
-### Online safety
+### Sécurité en ligne
 
-If you [accidentally discover an image you find upsetting](https://www.thinkuknow.co.uk/11_13/Need-advice/Things-you-see-online/){:target="_blank"}, close your browser immediately and tell an adult.
+Si tu [découvres accidentellement une image que tu trouves choquante](https://www.thinkuknow.co.uk/11_13/Need-advice/Things-you-see-online/){: target = « _ blank »}, ferme ton navigateur immédiatement et dis-le à un adulte.
