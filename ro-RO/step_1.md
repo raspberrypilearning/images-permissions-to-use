@@ -24,11 +24,11 @@ If you are using Google, follow the instructions below to find an image you can 
 
 + Go to Google Images and type in what you are searching for. Here, we searched for `cat fail`:
 
-![Cat Fail Search](images/catfailsearch.png)
+![Căutare pisici amuzante](images/catfailsearch.png)
 
 + Click on **Search Tools**, then **Usage Rights**, and select **Labeled for reuse**.
 
-![Labeled for Reuse](images/labeledforreuse.png)
+![Etichetate cu permisiunea de reutilizare](images/labeledforreuse.png)
 
 + Choose an image.
 
@@ -36,7 +36,7 @@ If you are using Google, follow the instructions below to find an image you can 
 
 + Double-check whether it is free to use. You can use a reverse image search tool like [TinEye](https://www.tineye.com/){:target="_blank"} or [Image Raider](https://www.imageraider.com/){:target="_blank"} to check for any further usage rights. Here, I copied the image link from the Google search, pasted it into TinEye, and pressed **Search**. As you can see, the image has been used many times (781!) all over the internet, so it is likely that it is free to use. If in doubt, you should write to the owner and ask for permission.
 
-![Reverse Search](images/reversesearch.png)
+![Căutare inversă](images/reversesearch.png)
 
 ### Online safety
 
