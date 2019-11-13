@@ -1,43 +1,43 @@
-Because of copyright law, you cannot use everything you find on the web. Here you will learn how to find images that you can use in your digital making without breaking copyright laws.
+Через закон про авторські права ти не можеш використовувати все, що знаходиш в Інтернеті. Тут ти дізнаєшся про те, як знаходити зображення, які можна використовувати у цифрових продуктах, не порушуючи закони про авторські права.
 
-### Understanding copyright law
+### Розуміння законодавства про авторські права
 
-Copyright law is designed to protect creators of artistic, literary, musical, and dramatic works from having their work exploited or misused. This means that copyright law applies to all manner of materials offline and online, including images and art work.
+Закон про авторські права покликаний захищати творців художніх, літературних, музичних та драматичних творів від неправомірного використання результатів їхньої роботи. Це означає, що закон про авторські права поширюється на всі види цифрових та нецифрових матеріалів, включаючи зображення та інші твори мистецтва.
 
-Anyone who uses a copyrighted work without the owners' permission is guilty of copyright infringement. This is sometimes true even if a lot of things have been changed about the work.
+Кожен, хто використовує твори, захищені авторським правом без дозволу їх власників, є винним у порушенні авторських прав. Часто це залишається справедливим навіть якщо оригінальний твір було значно змінено.
 
-Many images on the internet are protected by copyright. The copyright symbol © does not have to be present in the image for copyright to exist.
+Багато зображень в Інтернеті захищені авторським правом. Символ авторських прав © не обов’язково має бути присутнім на зображенні, щоб на нього розповсюджувалися чиїсь авторські права.
 
-If you want to use an image for which you require permission, you will need to obtain permission from all the copyright owners. Otherwise, you can search for images that are free for you to use through Creative Commons licensing.
+Якщо ти хочеш використовувати зображення, для якого потрібен дозвіл, тобі необхідно буде його отримати від усіх власників авторських прав на нього. В той же час ти можеш шукати зображення, які можна вільно використовувати, за допомогою ліцензій Creative Commons.
 
 ### Creative Commons
 
-Creative Commons licensing allows the creator of an image to select which permissions they want to give to people to their work for free. With Creative Commons licensing you can give away all rights to your work, or just some of them. There is an online form on the [Creative Commons website](https://creativecommons.org/){:target="_blank"} that helps you to figure out exactly which of your rights you want to give away.
+Ліцензування Creative Commons дає можливість автору зображення вказати які права на нього безкоштовно надаватимуться іншим людям. Через ліцензуванню Creative Commons можна надавати всі права на твір або лише деякі з них. На [веб-сайті Creative Commons](https://creativecommons.org/){:target="_blank"} є онлайн-форма, яка допоможе розібратися, які саме права надавати.
 
-Creative Commons licensing makes it easier for people to find images that they have permission to use. On the Creative Commons site, there is a [search tool](https://search.creativecommons.org/){:target="_blank"} you can use to find images that have a Creative Commons license. Another good place to look for images available under a Creative Commons license is [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"}.
+Ліцензування Creative Commons полегшує людям пошук зображень, які вони можуть використовувати. На сайті Creative Commons є [інструмент пошуку](https://search.creativecommons.org/){:target="_blank"}, який ти можеш використовувати, щоб знайти зображення із ліцензією Creative Commons. Ще одним хорошим місцем для пошуку зображень, доступних за ліцензіями Creative Commons, є [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"}.
 
-Many search engines also feature a way to search for images with a Creative Commons license, so that people can avoid breaking copyright law.
+Також у багатьох пошукових системах є спосіб пошуку зображень з ліцензією Creative Commons, щоб люди могли уникнути порушення закону про авторські права.
 
-### Searching for images with Google
+### Пошук зображень за допомогою Google
 
-If you are using Google, follow the instructions below to find an image you can use in your digital making:
+Якщо ти використовуєш Google, дотримуйся наведених нижче вказівок для пошуку зображень, які можна використовувати в своїх цифрових творах:
 
-+ Go to Google Images and type in what you are searching for. Here, we searched for `cat fail`:
++ Перейди до пошуку зображень Google і введи те, що шукаєш. Наприклад, ми шукаємо `котик`:
 
-![Cat Fail Search](images/catfailsearch.png)
+![Пошук котиків](images/catfailsearch.png)
 
-+ Click on **Search Tools**, then **Usage Rights**, and select **Labeled for reuse**.
++ Клацни **Інструменти**, а потім **Права на використання** та вибери **З ліцензією на повторне використання**.
 
-![Labeled for Reuse](images/labeledforreuse.png)
+![З ліцензією на повторне використання](images/labeledforreuse.png)
 
-+ Choose an image.
++ Вибери якесь зображення.
 
-![Cat Fail](images/catfail.png)
+![Котик](images/catfail.png)
 
-+ Double-check whether it is free to use. You can use a reverse image search tool like [TinEye](https://www.tineye.com/){:target="_blank"} or [Image Raider](https://www.imageraider.com/){:target="_blank"} to check for any further usage rights. Here, I copied the image link from the Google search, pasted it into TinEye, and pressed **Search**. As you can see, the image has been used many times (781!) all over the internet, so it is likely that it is free to use. If in doubt, you should write to the owner and ask for permission.
++ Перевір, що його можна вільно використовувати. Ти можеш скористатися інструментом зворотнього пошуку зображень, наприклад [TinEye](https://www.tineye.com/){:target="_blank"} або [Image Raider](https://www.imageraider.com/){:target="_blank"}, щоб перевірити будь-які подальші права використання. Тут я скопіював посилання на зображення з пошуку Google, вставив його в TinEye і натиснув **Пошук**. Як бачиш, зображення використовувалося багато разів (24!) по всьому Інтернету, тому, дуже ймовірно, що воно є безкоштовним. У випадку сумнівів, тобі слід написати власнику і запитати дозволу.
 
-![Reverse Search](images/reversesearch.png)
+![Зворотний пошук](images/reversesearch.png)
 
-### Online safety
+### Безпека в Інтернеті
 
-If you [accidentally discover an image you find upsetting](https://www.thinkuknow.co.uk/11_13/Need-advice/Things-you-see-online/){:target="_blank"}, close your browser immediately and tell an adult.
+Якщо ти [випадково побачив (-ла) зображення, яке тебе засмутило](https://www.thinkuknow.co.uk/11_13/Need-advice/Things-you-see-online/){:target="_blank"}, відразу закрий браузер і повідом про це дорослим.
