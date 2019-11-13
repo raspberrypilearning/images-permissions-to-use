@@ -1,43 +1,43 @@
-Because of copyright law, you cannot use everything you find on the web. Here you will learn how to find images that you can use in your digital making without breaking copyright laws.
+Zbog zakona o autorskim pravima ne možete koristiti sve što pronađete na webu. Ovdje ćete naučiti kako pronaći slike koje možete koristiti u digitalnoj izradi bez kršenja zakona o autorskim pravima.
 
-### Understanding copyright law
+### Razumijevanje zakona o autorskim pravima
 
-Copyright law is designed to protect creators of artistic, literary, musical, and dramatic works from having their work exploited or misused. This means that copyright law applies to all manner of materials offline and online, including images and art work.
+Zakon o autorskim pravima namijenjen je zaštiti stvaralaca umjetničkih, književnih, glazbenih i dramskih djela od zlouporabe njihovih djela. To znači da se zakon o autorskim pravima odnosi na sve vrste materijala izvan mreže i na mreži, uključujući slike i umjetnička djela.
 
-Anyone who uses a copyrighted work without the owners' permission is guilty of copyright infringement. This is sometimes true even if a lot of things have been changed about the work.
+Svatko tko koristi autorsko djelo bez vlasnikovog odobrenja kriv je za kršenje autorskih prava. To je ponekad točno čak i ako se u djelu promijenilo mnogo toga.
 
-Many images on the internet are protected by copyright. The copyright symbol © does not have to be present in the image for copyright to exist.
+Mnoge slike na internetu zaštićene su autorskim pravima. Simbol autorskih prava © ne mora biti prisutan na slici da bi postojala autorska prava.
 
-If you want to use an image for which you require permission, you will need to obtain permission from all the copyright owners. Otherwise, you can search for images that are free for you to use through Creative Commons licensing.
+Ako želite koristiti sliku za koju vam je potrebno dopuštenje, morati ćete dobiti dopuštenje od svih vlasnika autorskih prava. U protivnom možete pretraživati slike koje možete besplatno koristiti putem Creative Commons licenciranja.
 
 ### Creative Commons
 
-Creative Commons licensing allows the creator of an image to select which permissions they want to give to people to their work for free. With Creative Commons licensing you can give away all rights to your work, or just some of them. There is an online form on the [Creative Commons website](https://creativecommons.org/){:target="_blank"} that helps you to figure out exactly which of your rights you want to give away.
+Creative Commons licenciranje omogućuje kreatoru slike da odabere koja će dopuštenja ljudima besplatno dati za svoj rad. S licencom Creative Commons možete dati sva prava na svoj rad ili samo neka od njih. Na web stranici [Creative Commons](https://creativecommons.org/){: target = "_ blank"} postoji internetski obrazac koji vam pomaže da shvatite točno koja od vaših prava želite dati.
 
-Creative Commons licensing makes it easier for people to find images that they have permission to use. On the Creative Commons site, there is a [search tool](https://search.creativecommons.org/){:target="_blank"} you can use to find images that have a Creative Commons license. Another good place to look for images available under a Creative Commons license is [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"}.
+Creative Commons licenciranje ljudima olakšava pronalaženje slika za koje imaju dozvolu koristiti. Na Creative Commons web stranici nalazi se [alat za pretraživanje](https://search.creativecommons.org/){: target = „_ blank”} koji možete koristiti kako bi pronašli slike koje imaju licencu Creative Commons. Još jedno dobro mjesto za traženje slika dostupnih pod Creative Commons licencom je [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page){:target = "_ blank"}.
 
-Many search engines also feature a way to search for images with a Creative Commons license, so that people can avoid breaking copyright law.
+Mnoge tražilice također sadrže način pretraživanja slika s Creative Commons licencom, kako bi ljudi izbjegli kršenje zakona o autorskim pravima.
 
-### Searching for images with Google
+### Pretraživanje slika s Googleom
 
-If you are using Google, follow the instructions below to find an image you can use in your digital making:
+Ako koristite Google, slijedite upute u nastavku da biste pronašli sliku koju možete upotrijebiti u izradi digitalnih proizvoda:
 
-+ Go to Google Images and type in what you are searching for. Here, we searched for `cat fail`:
++ Otvorite Google slike i upišite ono što tražite. Ovdje smo tražili `mačje failove`:
 
-![Cat Fail Search](images/catfailsearch.png)
+![Pretraživanje mačjih failova](images/catfailsearch.png)
 
-+ Click on **Search Tools**, then **Usage Rights**, and select **Labeled for reuse**.
++ Kliknite **Alati za pretraživanje**, zatim **Prava korištenja**i odaberite **Označeno za ponovnu upotrebu**.
 
-![Labeled for Reuse](images/labeledforreuse.png)
+![Označeno za ponovnu upotrebu](images/labeledforreuse.png)
 
-+ Choose an image.
++ Odaberite sliku.
 
-![Cat Fail](images/catfail.png)
+![Mačji fail](images/catfail.png)
 
-+ Double-check whether it is free to use. You can use a reverse image search tool like [TinEye](https://www.tineye.com/){:target="_blank"} or [Image Raider](https://www.imageraider.com/){:target="_blank"} to check for any further usage rights. Here, I copied the image link from the Google search, pasted it into TinEye, and pressed **Search**. As you can see, the image has been used many times (781!) all over the internet, so it is likely that it is free to use. If in doubt, you should write to the owner and ask for permission.
++ Dvaput provjerite je li je besplatno za korištenje. Možete upotrijebiti alat za obrnutu pretragu koristeći slike, poput [TinEye](https://www.tineye.com/){: target = "_ blank"} ili [Image Raider](https://www.imageraider.com/){: target = "_ blank"} da biste provjerili ima li daljnjih prava upotrebe. Kopirao sam poveznicu sa slike iz Google pretraživanja, zalijepio je u TinEye i pritisnuo **Search**. Kao što vidite, slika je korištena već mnogo puta (781!) Na cijelom internetu, tako da je vjerojatno slobodna za upotrebu. Ako imate dvojbe, pišite kreatoru slike i zatražite dopuštenje.
 
-![Reverse Search](images/reversesearch.png)
+![Obrnuta pretraga](images/reversesearch.png)
 
-### Online safety
+### Internetska sigurnost
 
-If you [accidentally discover an image you find upsetting](https://www.thinkuknow.co.uk/11_13/Need-advice/Things-you-see-online/){:target="_blank"}, close your browser immediately and tell an adult.
+Ako [slučajno otkrijete sliku koju možete pronaći traumatičnom](https://www.thinkuknow.co.uk/11_13/Need-advice/Things-you-see-online/){:target = „_ blank”}, zatvorite preglednik odmah i recite nekome odraslome.
