@@ -1,9 +1,9 @@
 ---
-title: Finding images with permissions to use
+title: Ricerca di immagini liberamente utilizzabili
 hero_image: images/banner.png
-description: How to find digital images you have permission to use
-theme: red
-duration: 2
+description: Come trovare immagini digitali liberamente utilizzabili
+theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 2 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
 copyedit: false
@@ -13,4 +13,4 @@ technologies:
 site_areas:
 steps:
   - 
-    title: Finding images with permissions to use
+    title: Ricerca di immagini liberamente utilizzabili
