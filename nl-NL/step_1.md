@@ -1,43 +1,43 @@
-Because of copyright law, you cannot use everything you find on the web. Here you will learn how to find images that you can use in your digital making without breaking copyright laws.
+Vanwege de auteursrechtwetgeving mag je niet alles gebruiken wat je op internet vindt. Hier leer je hoe je afbeeldingen kunt vinden die je kunt gebruiken zonder de auteursrechten te schenden.
 
-### Understanding copyright law
+### Inzicht in auteursrechten
 
-Copyright law is designed to protect creators of artistic, literary, musical, and dramatic works from having their work exploited or misused. This means that copyright law applies to all manner of materials offline and online, including images and art work.
+Het auteursrecht is bedoeld om makers van artistieke, literaire, muzikale en dramatische werken te beschermen tegen uitbuiting of misbruik van hun werk. Dit betekent dat de auteursrechtwetgeving van toepassing is op alle soorten materiaal offline en online, inclusief afbeeldingen en kunstwerken.
 
-Anyone who uses a copyrighted work without the owners' permission is guilty of copyright infringement. This is sometimes true even if a lot of things have been changed about the work.
+Iedereen die een auteursrechtelijk beschermd werk gebruikt zonder toestemming van de eigenaar, maakt zich schuldig aan inbreuk op het auteursrecht. Dit is soms waar zelfs als er veel dingen zijn veranderd aan het werk.
 
-Many images on the internet are protected by copyright. The copyright symbol © does not have to be present in the image for copyright to exist.
+Veel afbeeldingen op internet zijn auteursrechtelijk beschermd. Het auteursrechtsymbool © hoeft niet aanwezig te zijn in de afbeelding om het auteursrecht te laten bestaan.
 
-If you want to use an image for which you require permission, you will need to obtain permission from all the copyright owners. Otherwise, you can search for images that are free for you to use through Creative Commons licensing.
+Als je een afbeelding wilt gebruiken waarvoor je toestemming nodig hebt, moet je toestemming krijgen van alle auteursrechteigenaren. Anders kun je zoeken naar afbeeldingen die je gratis kunt gebruiken via Creative Commons-licenties.
 
 ### Creative Commons
 
-Creative Commons licensing allows the creator of an image to select which permissions they want to give to people to their work for free. With Creative Commons licensing you can give away all rights to your work, or just some of them. There is an online form on the [Creative Commons website](https://creativecommons.org/){:target="_blank"} that helps you to figure out exactly which of your rights you want to give away.
+Met Creative Commons-licenties kan de maker van een afbeelding selecteren welke machtigingen hij mensen gratis voor zijn werk wil geven. Met Creative Commons-licenties kunt je alle rechten op jouw werk, of slechts enkele weggeven. Er is een online formulier op de [Creative Commons-website](https://creativecommons.org/){:target="_blank"} waarmee je precies kunt bepalen welke van jouw rechten je wilt weggeven.
 
-Creative Commons licensing makes it easier for people to find images that they have permission to use. On the Creative Commons site, there is a [search tool](https://search.creativecommons.org/){:target="_blank"} you can use to find images that have a Creative Commons license. Another good place to look for images available under a Creative Commons license is [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"}.
+Met Creative Commons-licenties kunnen mensen gemakkelijker afbeeldingen vinden die ze mogen gebruiken. Op de Creative Commons-site is een [zoektool](https://search.creativecommons.org/){:target="_blank"} die je kunt gebruiken om afbeeldingen te vinden die een Creative Commons-licentie hebben. Een andere goede plaats om te zoeken naar afbeeldingen die beschikbaar zijn onder een Creative Commons-licentie is [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"}.
 
-Many search engines also feature a way to search for images with a Creative Commons license, so that people can avoid breaking copyright law.
+Veel zoekmachines bieden ook een manier om naar afbeeldingen te zoeken met een Creative Commons-licentie, zodat mensen kunnen voorkomen dat ze de auteursrechtwetgeving overtreden.
 
-### Searching for images with Google
+### Zoeken naar afbeeldingen met Google
 
-If you are using Google, follow the instructions below to find an image you can use in your digital making:
+Als je Google gebruikt, volg je de onderstaande instructies om een afbeelding te vinden die je voor jouw digitale productie kunt gebruiken:
 
-+ Go to Google Images and type in what you are searching for. Here, we searched for `cat fail`:
++ Ga naar Google Afbeeldingen en typ wat je zoekt. Hier hebben we gezocht naar `cat fail`:
 
-![Cat Fail Search](images/catfailsearch.png)
+![Cat Fail zoektocht](images/catfailsearch.png)
 
-+ Click on **Search Tools**, then **Usage Rights**, and select **Labeled for reuse**.
++ Klik op **Tools**en vervolgens op **Gebruiksrechten** en selecteer **Gelabeld voor hergebruik**.
 
-![Labeled for Reuse](images/labeledforreuse.png)
+![Gelabeld voor hergebruik](images/labeledforreuse.png)
 
-+ Choose an image.
++ Kies een afbeelding.
 
 ![Cat Fail](images/catfail.png)
 
-+ Double-check whether it is free to use. You can use a reverse image search tool like [TinEye](https://www.tineye.com/){:target="_blank"} or [Image Raider](https://www.imageraider.com/){:target="_blank"} to check for any further usage rights. Here, I copied the image link from the Google search, pasted it into TinEye, and pressed **Search**. As you can see, the image has been used many times (781!) all over the internet, so it is likely that it is free to use. If in doubt, you should write to the owner and ask for permission.
++ Controleer nogmaals of het vrij te gebruiken is. Je kunt een tool zoals [TinEye](https://www.tineye.com/){:target="_blank"} of [Image Raider](https://www.imageraider.com/){:target="_blank"} voor het zoeken naar afbeeldingen gebruiken om te controleren op verdere gebruiksrechten. Hier heb ik de afbeeldingslink van de Google-zoekopdracht gekopieerd, in TinEye geplakt en op **Zoeken** gedrukt. Zoals je kunt zien, is de afbeelding vele malen (781!) op het hele internet gebruikt, dus het is waarschijnlijk dat deze vrij te gebruiken is. In geval van twijfel moet je naar de eigenaar schrijven en toestemming vragen.
 
-![Reverse Search](images/reversesearch.png)
+![Omgekeerd zoeken](images/reversesearch.png)
 
-### Online safety
+### Online veiligheid
 
-If you [accidentally discover an image you find upsetting](https://www.thinkuknow.co.uk/11_13/Need-advice/Things-you-see-online/){:target="_blank"}, close your browser immediately and tell an adult.
+Als je [per ongeluk een afbeelding ontdekt die je storend vindt](https://www.thinkuknow.co.uk/11_13/Need-advice/Things-you-see-online/){:target="_blank"}, sluit je browser onmiddellijk en vertel het een volwassene.
