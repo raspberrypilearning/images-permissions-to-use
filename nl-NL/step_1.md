@@ -26,7 +26,7 @@ Als je Google gebruikt, volg je de onderstaande instructies om een afbeelding te
 
 ![Cat Fail zoektocht](images/catfailsearch.png)
 
-+ Klik op **Tools**en vervolgens op **Gebruiksrechten** en selecteer **Gelabeld voor hergebruik**.
++ Klik op **Tools** en vervolgens op **Gebruiksrechten** en selecteer **Gelabeld voor hergebruik**.
 
 ![Gelabeld voor hergebruik](images/labeledforreuse.png)
 
