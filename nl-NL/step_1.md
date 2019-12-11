@@ -26,7 +26,7 @@ Als je Google gebruikt, volg je de onderstaande instructies om een afbeelding te
 
 ![Cat Fail zoektocht](images/catfailsearch.png)
 
-+ Klik op **Tools** en vervolgens op **Gebruiksrechten** en selecteer **Gelabeld voor hergebruik**.
++ Klik op **Tools**, vervolgens op **Gebruiksrechten** en selecteer **Gelabeld voor hergebruik**.
 
 ![Gelabeld voor hergebruik](images/labeledforreuse.png)
 
@@ -40,4 +40,4 @@ Als je Google gebruikt, volg je de onderstaande instructies om een afbeelding te
 
 ### Online veiligheid
 
-Als je [per ongeluk een afbeelding ontdekt die je storend vindt](https://www.thinkuknow.co.uk/11_13/Need-advice/Things-you-see-online/){:target="_blank"}, sluit je browser onmiddellijk en vertel het een volwassene.
+Als je [per ongeluk een afbeelding vindt die storend is](https://www.thinkuknow.co.uk/11_13/Need-advice/Things-you-see-online/){:target="_blank"}, sluit dan meteen je browser en geef het door aan een volwassene.
