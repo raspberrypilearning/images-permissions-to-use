@@ -8,19 +8,19 @@ Iedereen die een auteursrechtelijk beschermd werk gebruikt zonder toestemming va
 
 Veel afbeeldingen op internet zijn auteursrechtelijk beschermd. Het auteursrechtsymbool © hoeft niet eens aanwezig te zijn in de afbeelding om toch het auteursrecht te laten gelden.
 
-Als je een afbeelding wilt gebruiken waarvoor je toestemming nodig hebt, dien je die toestemming te krijgen van alle auteursrechteigenaren. Anders kun je zoeken naar afbeeldingen die je gratis kunt gebruiken via Creative Commons-licenties.
+Als je een afbeelding wilt gebruiken waarvoor je toestemming nodig hebt, dien je die toestemming te krijgen van alle auteursrechteigenaren. Lukt dit niet dan kun je, met Creative Commons, zoeken naar afbeeldingen die je gratis kunt gebruiken.
 
 ### Creative Commons
 
-Met Creative Commons-licenties kan de maker van een afbeelding selecteren welke machtigingen hij mensen gratis voor zijn werk wil geven. Met Creative Commons-licenties kunt je alle rechten op jouw werk, of slechts enkele weggeven. Er is een online formulier op de [Creative Commons-website](https://creativecommons.org/){:target="_blank"} waarmee je precies kunt bepalen welke van jouw rechten je wilt weggeven.
+Met Creative Commons-licenties kan de maker van een afbeelding zelf selecteren welke machtigingen hij voor zijn werk wil geven, zodat de mensen ze gratis kunnen gebruiken. Met Creative Commons-licenties kunt je alle rechten op jouw werk, of slechts enkele weggeven. Er is een online formulier op de [Creative Commons-website](https://creativecommons.org/){:target="_blank"} waarmee je precies kunt bepalen welke van jouw rechten je wilt weggeven.
 
-Met Creative Commons-licenties kunnen mensen gemakkelijker afbeeldingen vinden die ze mogen gebruiken. Op de Creative Commons-site is een [zoektool](https://search.creativecommons.org/){:target="_blank"} die je kunt gebruiken om afbeeldingen te vinden die een Creative Commons-licentie hebben. Een andere goede plaats om te zoeken naar afbeeldingen die beschikbaar zijn onder een Creative Commons-licentie is [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"}.
+Met Creative Commons-licenties kunnen mensen gemakkelijker afbeeldingen vinden die ze mogen gebruiken. Op de Creative Commons-site is een [zoektool](https://search.creativecommons.org/){:target="_blank"} dat je kunt gebruiken om afbeeldingen te vinden die een Creative Commons-licentie hebben. Een andere goede plaats om te zoeken naar afbeeldingen beschikbaar onder Creative Commons-licentie is [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"}.
 
-Veel zoekmachines bieden ook een manier om naar afbeeldingen te zoeken met een Creative Commons-licentie, zodat mensen kunnen voorkomen dat ze de auteursrechtwetgeving overtreden.
+Veel zoekmachines bieden ook een manier om naar afbeeldingen met een Creative Commons-licentie te zoeken, zodat je kunt voorkomen dat je de auteursrechtwetgeving overtreedt.
 
 ### Zoeken naar afbeeldingen met Google
 
-Als je Google gebruikt, volg je de onderstaande instructies om een afbeelding te vinden die je voor jouw digitale productie kunt gebruiken:
+Als je Google gebruikt, volg je de onderstaande instructies om een afbeelding te vinden die je voor jouw eigen digitale productie kunt gebruiken:
 
 + Ga naar Google Afbeeldingen en typ wat je zoekt. Hier hebben we gezocht naar `cat fail`:
 
@@ -34,7 +34,7 @@ Als je Google gebruikt, volg je de onderstaande instructies om een afbeelding te
 
 ![Cat Fail](images/catfail.png)
 
-+ Controleer nogmaals of het vrij te gebruiken is. Je kunt een tool zoals [TinEye](https://www.tineye.com/){:target="_blank"} of [Image Raider](https://www.imageraider.com/){:target="_blank"} voor het zoeken naar afbeeldingen gebruiken om te controleren op verdere gebruiksrechten. Hier heb ik de afbeeldingslink van de Google-zoekopdracht gekopieerd, in TinEye geplakt en op **Zoeken** gedrukt. Zoals je kunt zien, is de afbeelding vele malen (781!) op het hele internet gebruikt, dus het is waarschijnlijk dat deze vrij te gebruiken is. In geval van twijfel moet je naar de eigenaar schrijven en toestemming vragen.
++ Controleer nogmaals of je de afbeelding vrij mag gebruiken. Je kunt een tool zoals [TinEye](https://www.tineye.com/){:target="_blank"} of [Image Raider](https://www.imageraider.com/){:target="_blank"} voor het zoeken naar afbeeldingen gebruiken om te controleren op verdere gebruiksrechten. Hier heb ik de afbeeldingslink van de Google-zoekopdracht gekopieerd, in TinEye geplakt en op **Zoeken** gedrukt. Zoals je kunt zien, is de afbeelding vele malen (781!) op het hele internet gebruikt, dus het is waarschijnlijk dat deze vrij te gebruiken is. Twijfel je, vraag dan aan de eigenaar om toestemming. Bijvoorbeeld door het sturen van een berichtje.
 
 ![Omgekeerd zoeken](images/reversesearch.png)
 
