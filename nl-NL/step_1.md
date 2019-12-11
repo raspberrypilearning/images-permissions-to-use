@@ -4,11 +4,11 @@ Vanwege de auteursrechtwetgeving mag je niet alles gebruiken wat je op internet 
 
 Het auteursrecht is bedoeld om makers van artistieke, literaire, muzikale en dramatische werken te beschermen tegen uitbuiting of misbruik van hun werk. Dit betekent dat de auteursrechtwetgeving van toepassing is op alle soorten materiaal offline en online, inclusief afbeeldingen en kunstwerken.
 
-Iedereen die een auteursrechtelijk beschermd werk gebruikt zonder toestemming van de eigenaar, maakt zich schuldig aan inbreuk op het auteursrecht. Dit is soms waar zelfs als er veel dingen zijn veranderd aan het werk.
+Iedereen die een auteursrechtelijk beschermd werk gebruikt zonder toestemming van de eigenaar, maakt zich schuldig aan inbreuk op het auteursrecht. Dit geldt soms zelfs, ondanks dat er veel dingen aan het werk zijn veranderd.
 
-Veel afbeeldingen op internet zijn auteursrechtelijk beschermd. Het auteursrechtsymbool © hoeft niet aanwezig te zijn in de afbeelding om het auteursrecht te laten bestaan.
+Veel afbeeldingen op internet zijn auteursrechtelijk beschermd. Het auteursrechtsymbool © hoeft niet eens aanwezig te zijn in de afbeelding om toch het auteursrecht te laten gelden.
 
-Als je een afbeelding wilt gebruiken waarvoor je toestemming nodig hebt, moet je toestemming krijgen van alle auteursrechteigenaren. Anders kun je zoeken naar afbeeldingen die je gratis kunt gebruiken via Creative Commons-licenties.
+Als je een afbeelding wilt gebruiken waarvoor je toestemming nodig hebt, dien je die toestemming te krijgen van alle auteursrechteigenaren. Anders kun je zoeken naar afbeeldingen die je gratis kunt gebruiken via Creative Commons-licenties.
 
 ### Creative Commons
 
