@@ -1,4 +1,4 @@
-Per la legge sul copyright, non puoi utilizzare tutto ciò che trovi sul Web. Qui imparerai come trovare immagini che puoi usare nelle tue creazioni digitale senza infrangere le leggi sul copyright.
+Per la legge sul copyright, non puoi utilizzare tutto ciò che trovi sul Web. Qui imparerai come trovare immagini che puoi usare nelle tue creazioni digitali senza infrangere le leggi sul copyright.
 
 ### Capire la legge sul copyright
 
@@ -26,7 +26,7 @@ Se stai utilizzando Google, segui le istruzioni di seguito per trovare un'immagi
 
 ![Ricerca Cat Fail](images/catfailsearch.png)
 
-+ Fai clic su **Strumenti di ricerca**, quindi **Diritti di utilizzo**e seleziona **Contrassegnate per essere riutilizzate**.
++ Fai clic su **Strumenti di ricerca**, quindi **Diritti di utilizzo** e seleziona **Contrassegnate per essere riutilizzate**.
 
 ![Contrassegnate per essere riutilizzate](images/labeledforreuse.png)
 
