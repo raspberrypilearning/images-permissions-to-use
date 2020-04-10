@@ -1,8 +1,8 @@
-Because of copyright law, you cannot use everything you find on the web. Here you will learn how to find images that you can use in your digital making without breaking copyright laws.
+Por causa da lei de direitos autorais, você não pode usar tudo o que encontrar na web. Aqui você aprenderá a encontrar imagens que você pode usar na sua criação digital sem violar as leis de direitos autorais.
 
-### Understanding copyright law
+### Entendendo a lei de direitos autorais
 
-Copyright law is designed to protect creators of artistic, literary, musical, and dramatic works from having their work exploited or misused. This means that copyright law applies to all manner of materials offline and online, including images and art work.
+A lei de direitos autorais é projetada para proteger os criadores de obras artísticas, literárias, musicais e dramáticas contra a exploração ou uso indevido de seu trabalho. Isso significa que a lei de direitos autorais se aplica a todos os tipos de materiais offline e online, incluindo imagens e obras de arte.
 
 Anyone who uses a copyrighted work without the owners' permission is guilty of copyright infringement. This is sometimes true even if a lot of things have been changed about the work.
 
