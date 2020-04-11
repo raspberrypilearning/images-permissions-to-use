@@ -1,43 +1,43 @@
-Because of copyright law, you cannot use everything you find on the web. Here you will learn how to find images that you can use in your digital making without breaking copyright laws.
+कॉपीराइट कानून के कारण, आप वेब (internet) पर मिलने वाली हर चीज का उपयोग नहीं कर सकते। यहां आप सीखेंगे कि उन छवियों को कैसे खोजना है, जिनका उपयोग आप कॉपीराइट कानूनों को तोड़े बिना अपने डिजिटल मेकिंग में कर सकते हैं।
 
-### Understanding copyright law
+### कॉपीराइट कानून को समझना
 
-Copyright law is designed to protect creators of artistic, literary, musical, and dramatic works from having their work exploited or misused. This means that copyright law applies to all manner of materials offline and online, including images and art work.
+कॉपीराइट कानून को कलात्मक, साहित्यिक, संगीत, और नाटकीय रचनाकारों के कार्यों की रक्षा करने के लिए बनाया गया है जिससे कोई उनके काम का शोषण या दुरुपयोग न करें। इसका मतलब है कि कॉपीराइट कानून छवियों और कला कार्यों सहित ऑफ़लाइन और ऑनलाइन सभी तरह की सामग्रियों पर लागू होता है।
 
-Anyone who uses a copyrighted work without the owners' permission is guilty of copyright infringement. This is sometimes true even if a lot of things have been changed about the work.
+जो कोई भी मालिकों की अनुमति के बिना कॉपीराइट कार्य का उपयोग करता है, वह कॉपीराइट उल्लंघन का दोषी है। भले ही काम के बारे में बहुत सारी चीजें बदल दी गई हों, लिकेन यह कभी कभी सच होता हैं।
 
-Many images on the internet are protected by copyright. The copyright symbol © does not have to be present in the image for copyright to exist.
+इंटरनेट पर कई चित्र कॉपीराइट द्वारा सुरक्षित हैं। कॉपीराइट प्रतीक ©, कॉपीराइट के लिए छवि में मौजूद होना अनिवार्य नहीं है।
 
-If you want to use an image for which you require permission, you will need to obtain permission from all the copyright owners. Otherwise, you can search for images that are free for you to use through Creative Commons licensing.
+यदि आप ऐसी छवि का उपयोग करना चाहते हैं जिसके लिए आपको अनुमति की आवश्यकता है, तो आपको सभी कॉपीराइट मालिकों से अनुमति लेनी होगी। अन्यथा, आप उन छवियों को खोज सकते हैं जो आपके लिए क्रिएटिव कॉमन्स लाइसेंसिंग के माध्यम से उपयोग करने के लिए स्वतंत्र हैं।
 
 ### Creative Commons
 
-Creative Commons licensing allows the creator of an image to select which permissions they want to give to people to their work for free. With Creative Commons licensing you can give away all rights to your work, or just some of them. There is an online form on the [Creative Commons website](https://creativecommons.org/){:target="_blank"} that helps you to figure out exactly which of your rights you want to give away.
+क्रिएटिव कॉमन्स लाइसेंसिंग एक छवि के निर्माता को यह चुनने की अनुमति देता है कि वह किन अनुमति को लोगों को मुफ्त में अपने काम के लिए देना चाहता हैं। क्रिएटिव कॉमन्स लाइसेंस के साथ आप अपने काम के सभी अधिकार, या उनमें से कुछ को दे सकते हैं। [क्रिएटिव कॉमन्स वेबसाइट](https://creativecommons.org/){: target = "_ blank"} पर एक ऑनलाइन फॉर्म है जो आपको यह पता लगाने में मदद करता है कि आप अपने अधिकारों में से कौन सा अधिकार देना चाहते हैं।
 
-Creative Commons licensing makes it easier for people to find images that they have permission to use. On the Creative Commons site, there is a [search tool](https://search.creativecommons.org/){:target="_blank"} you can use to find images that have a Creative Commons license. Another good place to look for images available under a Creative Commons license is [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"}.
+क्रिएटिव कॉमन्स लाइसेंसिंग से लोगों को उन छवियों को ढूंढना आसान हो जाता है, जिनके लिए उन्हें उपयोग करने की अनुमति है। क्रिएटिव कॉमन्स साइट पर, [खोज उपकरण](https://search.creativecommons.org/){: target = "_ blank"} है, जिसका उपयोग आप उन चित्रों को खोजने के लिए कर सकते हैं जिनके पास क्रिएटिव कॉमन्स लाइसेंस है। क्रिएटिव कॉमन्स लाइसेंस के तहत उपलब्ध छवियों को देखने के लिए एक और अच्छी जगह है [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page){: target = "_ blank"}।
 
-Many search engines also feature a way to search for images with a Creative Commons license, so that people can avoid breaking copyright law.
+कई खोज इंजन में क्रिएटिव कॉमन्स लाइसेंस के साथ छवियों की खोज करने का एक तरीका भी है, ताकि लोग कॉपीराइट कानून को तोड़ने से बच सकें।
 
-### Searching for images with Google
+### Google के साथ चित्र खोजना
 
-If you are using Google, follow the instructions below to find an image you can use in your digital making:
+यदि आप Google का उपयोग कर रहे हैं, तो अपने डिजिटल मेकिंग में उपयोग की जा सकने वाली छवि खोजने के लिए नीचे दिए गए निर्देशों का पालन करें:
 
-+ Go to Google Images and type in what you are searching for. Here, we searched for `cat fail`:
++ Google छवियां पर जाएं और जो आप खोजना चाहते है वह टाइप करें। यहाँ, हमने `cat fail` को खोजा हैं:
 
 ![Cat Fail Search](images/catfailsearch.png)
 
-+ Click on **Search Tools**, then **Usage Rights**, and select **Labeled for reuse**.
++ **Search Tools**पर क्लिक करें, फिर **Usage Rights**, और**Labeled for reuse** का चयन करें।
 
 ![Labeled for Reuse](images/labeledforreuse.png)
 
-+ Choose an image.
++ एक छवि चुनें।
 
 ![Cat Fail](images/catfail.png)
 
-+ Double-check whether it is free to use. You can use a reverse image search tool like [TinEye](https://www.tineye.com/){:target="_blank"} or [Image Raider](https://www.imageraider.com/){:target="_blank"} to check for any further usage rights. Here, I copied the image link from the Google search, pasted it into TinEye, and pressed **Search**. As you can see, the image has been used many times (781!) all over the internet, so it is likely that it is free to use. If in doubt, you should write to the owner and ask for permission.
++ दोबारा से जाँचे की वह उपयोग करने के लिए स्वतंत्र हैं। आप चित्रों को उपयोग करने के लिए अधिक अधिकारों की जांच करने के लिए [TinEye](https://www.tineye.com/){:target="_ blank"} या [इमेज रेडर](https://www.imageraider.com/){:target="_ blank"} जैसे रिवर्स इमेज सर्च टूल का उपयोग कर सकते हैं। यहां, मैंने Google खोज से छवि के लिंक की प्रतिलिपि बनाई, और इसे TinEye में चिपकाया, और **Search**दबाया। जैसा कि आप देख सकते हैं, इंटरनेट पर कई बार (781!) छवि का उपयोग किया गया है, इसलिए यह संभावना है कि यह उपयोग करने के लिए स्वतंत्र है। यदि संदेह है, तो आपको मालिक को लिखना चाहिए और अनुमति के लिए पूछना चाहिए।
 
 ![Reverse Search](images/reversesearch.png)
 
-### Online safety
+### ऑनलाइन सुरक्षा
 
-If you [accidentally discover an image you find upsetting](https://www.thinkuknow.co.uk/11_13/Need-advice/Things-you-see-online/){:target="_blank"}, close your browser immediately and tell an adult.
+आप को [गलती से एक छवि की खोज करते हैं जो आपको परेशान व निराश करती हैं](https://www.thinkuknow.co.uk/11_13/Need-advice/Things-you-see-online/){:target="_ blank"}, तब तुरंत अपना ब्राउज़र बंद करें और अपने बड़ों को बताइए।
