@@ -2,7 +2,7 @@
 title: Encontrar imágenes con permisos para ser usadas
 hero_image: images/banner.png
 description: Cómo encontrar imágenes digitales que tienen permisos para ser usadas
-theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: rojo #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
