@@ -1,43 +1,43 @@
-Because of copyright law, you cannot use everything you find on the web. Here you will learn how to find images that you can use in your digital making without breaking copyright laws.
+بسبب قانون حقوق النشر ، لا يمكنك استخدام كل ما تجده على الويب. ستتعلم هنا كيفية العثور على الصور التي يمكنك استخدامها في صنعك الرقمي دون خرق قوانين حقوق النشر.
 
-### Understanding copyright law
+### فهم قانون حقوق النشر
 
-Copyright law is designed to protect creators of artistic, literary, musical, and dramatic works from having their work exploited or misused. This means that copyright law applies to all manner of materials offline and online, including images and art work.
+تم تصميم قانون حقوق الطبع والنشر لحماية المبدعين من الأعمال الفنية والأدبية والموسيقية والدرامية من استغلال أعمالهم أو إساءة استخدامها. هذا يعني أن قانون حقوق الطبع والنشر ينطبق على جميع أنواع المواد غير المتصلة بالإنترنت وعبر الإنترنت ، بما في ذلك الصور والأعمال الفنية.
 
-Anyone who uses a copyrighted work without the owners' permission is guilty of copyright infringement. This is sometimes true even if a lot of things have been changed about the work.
+أي شخص يستخدم عملاً محمياً بحقوق الطبع والنشر دون إذن المالكين هو مذنب في انتهاك حقوق النشر. هذا صحيح في بعض الأحيان حتى لو تم تغيير الكثير من الأشياء حول العمل.
 
-Many images on the internet are protected by copyright. The copyright symbol © does not have to be present in the image for copyright to exist.
+العديد من الصور على الإنترنت محمية بحقوق الطبع والنشر. ليس من الضروري وجود رمز حقوق الطبع والنشر © في صورة تمتلك حقوق النشر.
 
-If you want to use an image for which you require permission, you will need to obtain permission from all the copyright owners. Otherwise, you can search for images that are free for you to use through Creative Commons licensing.
+إذا كنت تريد استخدام صورة تحتاج إلى إذن بشأنها ، فستحتاج إلى الحصول على إذن من جميع مالكي حقوق الطبع والنشر. وإلا ، يمكنك البحث عن الصور التي يمكنك استخدامها مجانًا من خلال ترخيص المشاع الإبداعي.
 
-### Creative Commons
+### المشاع الإبداعي
 
-Creative Commons licensing allows the creator of an image to select which permissions they want to give to people to their work for free. With Creative Commons licensing you can give away all rights to your work, or just some of them. There is an online form on the [Creative Commons website](https://creativecommons.org/){:target="_blank"} that helps you to figure out exactly which of your rights you want to give away.
+يسمح ترخيص المشاع الإبداعي لمنشئ صورة ما بتحديد الأذونات التي يريدون منحها للأشخاص لعملهم مجاناً. مع ترخيص المشاع الإبداعي ، يمكنك التخلي عن جميع حقوق عملك ، أو بعض منها فقط. يوجد نموذج عبر الإنترنت على موقع [Creative Commons على الويب](https://creativecommons.org/){: target = "_ blank"} يساعدك على معرفة حقوقك التي تريد منحها على وجه التحديد.
 
-Creative Commons licensing makes it easier for people to find images that they have permission to use. On the Creative Commons site, there is a [search tool](https://search.creativecommons.org/){:target="_blank"} you can use to find images that have a Creative Commons license. Another good place to look for images available under a Creative Commons license is [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"}.
+يسهل ترخيص المشاع الإبداعي للأشخاص العثور على صور لديهم إذن باستخدامها. على موقع المشاع الإبداعي، وهناك [أداة بحث](https://search.creativecommons.org/){: الهدف = "_ فارغا"} يمكنك استخدامها للعثور على الصور التي لديها ترخيص المشاع الإبداعي. هناك مكان جيد آخر للبحث عن الصور المتاحة بموجب ترخيص المشاع الإبداعي وهو [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page){: target = "_ blank"}.
 
-Many search engines also feature a way to search for images with a Creative Commons license, so that people can avoid breaking copyright law.
+تتميز العديد من محركات البحث أيضاً بطريقة للبحث عن الصور بترخيص المشاع الإبداعي ، بحيث يمكن للأشخاص تجنب انتهاك قانون حقوق النشر.
 
-### Searching for images with Google
+### البحث عن الصور مع جوجل
 
-If you are using Google, follow the instructions below to find an image you can use in your digital making:
+إذا كنت تستخدم Google ، فاتبع الإرشادات أدناه للعثور على صورة يمكنك استخدامها في صنعك الرقمي:
 
-+ Go to Google Images and type in what you are searching for. Here, we searched for `cat fail`:
++ انتقل إلى صور Google واكتب ما تبحث عنه. هنا ، بحثنا عن `cat fail`:
 
-![Cat Fail Search](images/catfailsearch.png)
+![البحث عن Cat Fail](images/catfailsearch.png)
 
-+ Click on **Search Tools**, then **Usage Rights**, and select **Labeled for reuse**.
++ انقر على **Search Tools**, ثم **Usage Rights**, وحدد **Labeled for reuse**.
 
-![Labeled for Reuse](images/labeledforreuse.png)
+![المصنفة على أنها قابلة لإعادة الاستخدام](images/labeledforreuse.png)
 
-+ Choose an image.
++ اختر صورة
 
-![Cat Fail](images/catfail.png)
+![فشل القط](images/catfail.png)
 
-+ Double-check whether it is free to use. You can use a reverse image search tool like [TinEye](https://www.tineye.com/){:target="_blank"} or [Image Raider](https://www.imageraider.com/){:target="_blank"} to check for any further usage rights. Here, I copied the image link from the Google search, pasted it into TinEye, and pressed **Search**. As you can see, the image has been used many times (781!) all over the internet, so it is likely that it is free to use. If in doubt, you should write to the owner and ask for permission.
++ تحقق مرة أخرى من أنه مجاني للاستخدام. يمكنك استخدام أداة البحث العكسي عن الصور مثل [TinEye](https://www.tineye.com/){: target = "_ blank"} أو [Image Raider](https://www.imageraider.com/){: target = "_ blank"} للتحقق من أي حقوق استخدام أخرى. هنا ، قمت بنسخ رابط الصورة من بحث Google ، وقم بلصقه في TinEye ، وضغطت على **Search**. كما ترون ، تم استخدام الصورة عدة مرات (781!) في جميع أنحاء الإنترنت ، لذلك فمن المحتمل أن يكون مجانيًا للاستخدام. إذا كنت في شك ، يجب عليك الكتابة إلى المالك وطلب الإذن.
 
-![Reverse Search](images/reversesearch.png)
+![بحث عكسي](images/reversesearch.png)
 
-### Online safety
+### السلامة على الإنترنت
 
-If you [accidentally discover an image you find upsetting](https://www.thinkuknow.co.uk/11_13/Need-advice/Things-you-see-online/){:target="_blank"}, close your browser immediately and tell an adult.
+إذا قمت [باكتشاف بالصدفة صورة غير مقبولة ](https://www.thinkuknow.co.uk/11_13/Need-advice/Things-you-see-online/){: الهدف = "_ فارغا"}، إغلق المتصفح على الفور واخبر شخصاً بالغاُ.
