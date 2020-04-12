@@ -1,8 +1,8 @@
-Because of copyright law, you cannot use everything you find on the web. Here you will learn how to find images that you can use in your digital making without breaking copyright laws.
+著作権法 (ちょさくけんほう) により、インターネット上で見つけたものすべてを使用することはできません。 ここでは、著作権法に違反 (いはん) することなくデジタル工作 (電子工作やプログラミング) で使用できる画像を見つける方法を学びます。
 
-### Understanding copyright law
+### 著作権法を理解 (りかい) する
 
-Copyright law is designed to protect creators of artistic, literary, musical, and dramatic works from having their work exploited or misused. This means that copyright law applies to all manner of materials offline and online, including images and art work.
+著作権法は、芸術 (げいじゅつ) 、文学、音楽、および劇 (げき) 作品を作った人が、その作品を不当に使用されたり、悪用されたりしないように保護 (ほご) することを目的 (もくてき) としています。 This means that copyright law applies to all manner of materials offline and online, including images and art work.
 
 Anyone who uses a copyrighted work without the owners' permission is guilty of copyright infringement. This is sometimes true even if a lot of things have been changed about the work.
 
