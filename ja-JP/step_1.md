@@ -8,17 +8,17 @@
 
 インターネット上の多くの画像は著作権によって保護されています。 著作権があることをしめすための著作権記号©は、画像に表示 (ひょうじ) されているとはかぎりません。
 
-許可が必要 (ひつよう) な画像を使用する場合は、すべての著作権所有者から許可を得る (える) 必要があります。 Otherwise, you can search for images that are free for you to use through Creative Commons licensing.
+許可が必要 (ひつよう) な画像を使用する場合は、すべての著作権所有者から許可を得る (える) 必要があります。 それができない場合は、クリエイティブ・コモンズ・ライセンスによって無料 (むりょう) で使用できるようになっている画像をさがします。
 
 ### クリエイティブ・コモンズ
 
-Creative Commons licensing allows the creator of an image to select which permissions they want to give to people to their work for free. クリエイティブ・コモンズ・ライセンスを使用すると、作品のすべての権利 (けんり) 、またはその一部のみを譲渡 (じょうと) できます。 There is an online form on the [Creative Commons website](https://creativecommons.org/){:target="_blank"} that helps you to figure out exactly which of your rights you want to give away.
+クリエイティブ・コモンズ・ライセンスにより、画像の作成者は、どの範囲 (はんい) で自分の作品を無料で使えるかを決めることができます。 クリエイティブ・コモンズ・ライセンスを使用すると、作品のすべての権利 (けんり) 、またはその一部のみを譲渡 (じょうと) できます。 There is an online form on the [Creative Commons website](https://creativecommons.org/){:target="_blank"} that helps you to figure out exactly which of your rights you want to give away.
 
 Creative Commons licensing makes it easier for people to find images that they have permission to use. On the Creative Commons site, there is a [search tool](https://search.creativecommons.org/){:target="_blank"} you can use to find images that have a Creative Commons license. Another good place to look for images available under a Creative Commons license is [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"}.
 
 Many search engines also feature a way to search for images with a Creative Commons license, so that people can avoid breaking copyright law.
 
-### Searching for images with Google
+### Googleで画像を検索する
 
 If you are using Google, follow the instructions below to find an image you can use in your digital making:
 
