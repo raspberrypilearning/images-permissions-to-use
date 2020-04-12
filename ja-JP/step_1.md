@@ -34,9 +34,9 @@ If you are using Google, follow the instructions below to find an image you can 
 
 ![ネコの失敗](images/catfail.png)
 
-+ 無料で使用できるかどうかをもう一度たしかめましょう。 You can use a reverse image search tool like [TinEye](https://www.tineye.com/){:target="_blank"} or [Image Raider](https://www.imageraider.com/){:target="_blank"} to check for any further usage rights. Here, I copied the image link from the Google search, pasted it into TinEye, and pressed **Search**. As you can see, the image has been used many times (781!) all over the internet, so it is likely that it is free to use. If in doubt, you should write to the owner and ask for permission.
++ 無料で使用できるかどうかをもう一度たしかめましょう。 You can use a reverse image search tool like [TinEye](https://www.tineye.com/){:target="_blank"} or [Image Raider](https://www.imageraider.com/){:target="_blank"} to check for any further usage rights. ここでは、Google検索から画像リンクをコピーしてTinEyeに貼り付け (はりつけ)、 **むしめがねのアイコン** (検索ボタン) をクリックしました。 ごらんのとおり、画像はインターネット上で何度も（781回も！）使用されているため、無料で使用できると思われます。 はっきりと分からない場合は、所有者にメールや手紙などで連絡 (れんらく) して許可を求める (もとめる) 必要があります。
 
-![Reverse Search](images/reversesearch.png)
+![逆検索](images/reversesearch.png)
 
 ### Online safety
 
