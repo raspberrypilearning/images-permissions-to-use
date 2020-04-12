@@ -28,13 +28,13 @@ If you are using Google, follow the instructions below to find an image you can 
 
 + Click on **Search Tools**, then **Usage Rights**, and select **Labeled for reuse**.
 
-![Labeled for Reuse](images/labeledforreuse.png)
+![再使用許可](images/labeledforreuse.png)
 
-+ Choose an image.
++ 画像をえらびましょう。
 
-![Cat Fail](images/catfail.png)
+![ネコの失敗](images/catfail.png)
 
-+ Double-check whether it is free to use. You can use a reverse image search tool like [TinEye](https://www.tineye.com/){:target="_blank"} or [Image Raider](https://www.imageraider.com/){:target="_blank"} to check for any further usage rights. Here, I copied the image link from the Google search, pasted it into TinEye, and pressed **Search**. As you can see, the image has been used many times (781!) all over the internet, so it is likely that it is free to use. If in doubt, you should write to the owner and ask for permission.
++ 無料で使用できるかどうかをもう一度たしかめましょう。 You can use a reverse image search tool like [TinEye](https://www.tineye.com/){:target="_blank"} or [Image Raider](https://www.imageraider.com/){:target="_blank"} to check for any further usage rights. Here, I copied the image link from the Google search, pasted it into TinEye, and pressed **Search**. As you can see, the image has been used many times (781!) all over the internet, so it is likely that it is free to use. If in doubt, you should write to the owner and ask for permission.
 
 ![Reverse Search](images/reversesearch.png)
 
