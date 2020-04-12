@@ -12,19 +12,19 @@
 
 ### クリエイティブ・コモンズ
 
-クリエイティブ・コモンズ・ライセンスにより、画像の作成者は、どの範囲 (はんい) で自分の作品を無料で使えるかを決めることができます。 クリエイティブ・コモンズ・ライセンスを使用すると、作品のすべての権利 (けんり) 、またはその一部のみを譲渡 (じょうと) できます。 There is an online form on the [Creative Commons website](https://creativecommons.org/){:target="_blank"} that helps you to figure out exactly which of your rights you want to give away.
+クリエイティブ・コモンズ・ライセンスにより、画像の作成者は、どの範囲 (はんい) で自分の作品を無料で使えるかを決めることができます。 クリエイティブ・コモンズ・ライセンスを使用すると、作品のすべての権利 (けんり) 、またはその一部のみを譲渡 (じょうと) できます。 [クリエイティブ・コモンズのウェブサイト](https://creativecommons.org/){:target="_ blank"} のオンラインフォームを使えば、どの権利を譲渡するかを正確 (せいかく) に設定 (せってい) できます。
 
-Creative Commons licensing makes it easier for people to find images that they have permission to use. On the Creative Commons site, there is a [search tool](https://search.creativecommons.org/){:target="_blank"} you can use to find images that have a Creative Commons license. Another good place to look for images available under a Creative Commons license is [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"}.
+クリエイティブ・コモンズ・ライセンスにより、使用許可のある画像をかんたんに見つけることができます。 クリエイティブ・コモンズのサイトには、 [検索 (けんさく) ツール](https://search.creativecommons.org/){:target="_ blank"}があり、クリエイティブ・コモンズ・ライセンスのある画像を検索できます。 [ウィキメディア・コモンズ](https://commons.wikimedia.org/wiki/Main_Page){:target="_ blank"}でも、クリエイティブ・コモンズ・ライセンスの下で使用できる画像をさがすことができます。
 
-Many search engines also feature a way to search for images with a Creative Commons license, so that people can avoid breaking copyright law.
+検索エンジンの多くではクリエイティブ・コモンズ・ライセンスのある画像を検索できるため、著作権法違反をさけることができます。
 
 ### Googleで画像を検索する
 
 If you are using Google, follow the instructions below to find an image you can use in your digital making:
 
-+ Go to Google Images and type in what you are searching for. Here, we searched for `cat fail`:
++ Go to Google Images and type in what you are searching for. ここでは、 `cat fail` (ネコ　失敗 (しっぱい)) を検索しました。
 
-![Cat Fail Search](images/catfailsearch.png)
+![猫の失敗の検索](images/catfailsearch.png)
 
 + Click on **Search Tools**, then **Usage Rights**, and select **Labeled for reuse**.
 
