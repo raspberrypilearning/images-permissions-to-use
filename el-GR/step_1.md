@@ -1,26 +1,26 @@
-Because of copyright law, you cannot use everything you find on the web. Here you will learn how to find images that you can use in your digital making without breaking copyright laws.
+Εξαιτίας του νόμου περί πνευματικών δικαιωμάτων, δεν μπορείς να χρησιμοποιείς ό, τι βρίσκεται στον ιστό. Εδώ θα μάθεις πώς μπορείς να βρεις εικόνες που μπορείς να χρησιμοποιήσεις για την ψηφιακή σου δημιουργία χωρίς να παραβιάσεις τους νόμους περί πνευματικών δικαιωμάτων.
 
-### Understanding copyright law
+### Κατανόηση του νόμου περί πνευματικών δικαιωμάτων
 
-Copyright law is designed to protect creators of artistic, literary, musical, and dramatic works from having their work exploited or misused. This means that copyright law applies to all manner of materials offline and online, including images and art work.
+Ο νόμος περί πνευματικών δικαιωμάτων έχει σχεδιαστεί για να προστατεύει τους δημιουργούς καλλιτεχνικών, λογοτεχνικών, μουσικών και δραματικών έργων από την εκμετάλλευση ή κατάχρηση του έργου τους. Αυτό σημαίνει ότι ο νόμος περί πνευματικών δικαιωμάτων έχει εφαρμογή σε όλους τους τύπους υλικών εκτός σύνδεσης και σε σύνδεση, συμπεριλαμβανομένων των εικόνων και των έργων τέχνης.
 
-Anyone who uses a copyrighted work without the owners' permission is guilty of copyright infringement. This is sometimes true even if a lot of things have been changed about the work.
+Οποιοσδήποτε χρησιμοποιεί έργο που προστατεύεται από πνευματικά δικαιώματα χωρίς την άδεια των ιδιοκτητών είναι ένοχος παραβίασης πνευματικών δικαιωμάτων. Αυτό είναι μερικές φορές αληθές ακόμη και αν πολλά πράγματα έχουν τροποποιηθεί σχετικά με το έργο.
 
-Many images on the internet are protected by copyright. The copyright symbol © does not have to be present in the image for copyright to exist.
+Πολλές εικόνες στο διαδίκτυο προστατεύονται από πνευματικά δικαιώματα. Το σύμβολο πνευματικών δικαιωμάτων © δεν είναι απαραίτητο να υπάρχει στην εικόνα για να υπάρχουν δικαιώματα πνευματικής ιδιοκτησίας.
 
-If you want to use an image for which you require permission, you will need to obtain permission from all the copyright owners. Otherwise, you can search for images that are free for you to use through Creative Commons licensing.
+Αν θέλεις να χρησιμοποιήσεις μια εικόνα για την οποία χρειάζεσαι άδεια, θα πρέπει να λάβεις άδεια από όλους τους κατόχους των πνευματικών δικαιωμάτων. Διαφορετικά, μπορείς να αναζητήσεις εικόνες που είναι δωρεάν για να τις χρησιμοποιήσεις μέσω της άδειας χρήσης του Creative Commons (Δημιουργικά Κοινά).
 
-### Creative Commons
+### Creative Commons (Δημιουργικά Κοινά)
 
-Creative Commons licensing allows the creator of an image to select which permissions they want to give to people to their work for free. With Creative Commons licensing you can give away all rights to your work, or just some of them. There is an online form on the [Creative Commons website](https://creativecommons.org/){:target="_blank"} that helps you to figure out exactly which of your rights you want to give away.
+Η άδεια Creative Commons (Δημιουργικά Κοινά) επιτρέπει στον δημιουργό μιας εικόνας να επιλέξει ποια δικαιώματα θέλει να δώσει στους ανθρώπους ώστε να την κάνουν χρήση στη δουλειά τους δωρεάν. Με την άδεια Creative Commons (Δημιουργικά Κοινά) μπορείς να χαρίσεις όλα τα δικαιώματα στη δουλειά σου, ή μόνο μερικά από αυτά. Υπάρχει μια ηλεκτρονική φόρμα στην [Creative Commons ιστοσελίδα](https://creativecommons.org/) {:target="_ blank"} που σε βοηθάει να καταλάβεις ακριβώς ποια από τα δικαιώματά σου θέλεις να χαρίσεις.
 
-Creative Commons licensing makes it easier for people to find images that they have permission to use. On the Creative Commons site, there is a [search tool](https://search.creativecommons.org/){:target="_blank"} you can use to find images that have a Creative Commons license. Another good place to look for images available under a Creative Commons license is [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"}.
+Η αδειοδότηση του Creative Commons (Δημιουργικά Κοινά) διευκολύνει τους χρήστες να βρουν εικόνες για τις οποίες έχουν άδεια χρήσης. Στην ιστοσελίδα Creative Commons, υπάρχει ένα [εργαλείο αναζήτησης](https://search.creativecommons.org/) {:target="_ blank"} το οποίο μπορείς να χρησιμοποιήσεις για να βρεις εικόνες με άδεια Creative Commons (Δημιουργικά Κοινά). Ένα άλλο καλό μέρος για να αναζητήσεις εικόνες που διατίθενται με άδεια Creative Commons (Δημιουργικά Κοινά) είναι τα [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) {:target="_blanc"}.
 
-Many search engines also feature a way to search for images with a Creative Commons license, so that people can avoid breaking copyright law.
+Πολλές μηχανές αναζήτησης διαθέτουν επίσης έναν τρόπο αναζήτησης εικόνων με άδεια Creative Commons (Δημιουργικά Κοινά), έτσι ώστε οι άνθρωποι να αποφεύγουν να παραβιάζουν το νόμο περί πνευματικών δικαιωμάτων.
 
-### Searching for images with Google
+### Αναζήτηση εικόνων με το Google
 
-If you are using Google, follow the instructions below to find an image you can use in your digital making:
+Εάν χρησιμοποιείς το Google, ακολούθησε τις παρακάτω οδηγίες για να βρεις μια εικόνα που μπορείς να χρησιμοποιήσεις για την ψηφιακή παραγωγή σου:
 
 + Go to Google Images and type in what you are searching for. Here, we searched for `cat fail`:
 
