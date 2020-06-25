@@ -1,43 +1,43 @@
-Because of copyright law, you cannot use everything you find on the web. Here you will learn how to find images that you can use in your digital making without breaking copyright laws.
+因为有版权法，您不能随心所欲的使用在网上搜索到的所有内容 在这里，您将学习如何在不违反版权法的情况下找到可用于数字创作的图像。
 
-### Understanding copyright law
+### 了解版权法
 
-Copyright law is designed to protect creators of artistic, literary, musical, and dramatic works from having their work exploited or misused. This means that copyright law applies to all manner of materials offline and online, including images and art work.
+版权法旨在保护艺术，文学，音乐和戏剧作品的创作者，防止其作品被利用或滥用。 这意味着版权法适用于离线和在线的所有形式的材料，包括图像和艺术作品。
 
-Anyone who uses a copyrighted work without the owners' permission is guilty of copyright infringement. This is sometimes true even if a lot of things have been changed about the work.
+任何人未经所有者许可而使用受版权保护的作品都将构成侵犯版权的罪行。 即使对原作品进行了很多修改，有时也是如此。
 
-Many images on the internet are protected by copyright. The copyright symbol © does not have to be present in the image for copyright to exist.
+互联网上的许多图像都受到版权保护。 图像中不一定非要存在版权符号©才能宣布版权存在。
 
-If you want to use an image for which you require permission, you will need to obtain permission from all the copyright owners. Otherwise, you can search for images that are free for you to use through Creative Commons licensing.
+如果您要使用需要许可的图像，那意味着您需要获得所有版权所有者的许可。 否则，您可以通过搜索可免费使用的遵循知识共享许可(Creative Commons)的图像。
 
-### Creative Commons
+### 知识共享许可
 
-Creative Commons licensing allows the creator of an image to select which permissions they want to give to people to their work for free. With Creative Commons licensing you can give away all rights to your work, or just some of them. There is an online form on the [Creative Commons website](https://creativecommons.org/){:target="_blank"} that helps you to figure out exactly which of your rights you want to give away.
+知识共享许可允许图像创建者选择他们想要以何种方式授权人们使用他们的作品进行创作。 使用知识共享许可，您可以放弃您的作品的全部权利，或仅其中的一部分。 知识共享网站上有 [在线表格](https://creativecommons.org/){:target="_blank"}，可帮助您准确确定要放弃的权利。
 
-Creative Commons licensing makes it easier for people to find images that they have permission to use. On the Creative Commons site, there is a [search tool](https://search.creativecommons.org/){:target="_blank"} you can use to find images that have a Creative Commons license. Another good place to look for images available under a Creative Commons license is [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"}.
+知识共享许可使人们更容易找到他们有权使用的图像。 在知识共享网站上，有一个 [搜索工具](https://creativecommons.org/){:target="_blank"}，您可以用它来查找具有知识共享许可的图像。 寻找遵循知识共享许可的图像的另一个好地方是 [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"}。
 
-Many search engines also feature a way to search for images with a Creative Commons license, so that people can avoid breaking copyright law.
+许多搜索引擎还提供了一种专门用于搜索遵循知识共享许可的图像的方法，因此人们可以避免违反版权法。
 
-### Searching for images with Google
+### 使用 Google 搜索图像
 
-If you are using Google, follow the instructions below to find an image you can use in your digital making:
+如果您正在使用 Google，请按照以下说明查找可以在数字制作中使用的图像：
 
-+ Go to Google Images and type in what you are searching for. Here, we searched for `cat fail`:
++ 转到 Google 图片搜索并输入您想要搜索的内容。 在这里，我们搜索了 `cat fail`：
 
-![Cat Fail Search](images/catfailsearch.png)
+![Cat Fail 搜索](images/catfailsearch.png)
 
-+ Click on **Search Tools**, then **Usage Rights**, and select **Labeled for reuse**.
++ 点击 **工具**，然后点击 **使用权限** ，然后选择 **标记为可再利用** 。
 
-![Labeled for Reuse](images/labeledforreuse.png)
+![标记为可再利用](images/labeledforreuse.png)
 
-+ Choose an image.
++ 选择一个图片。
 
 ![Cat Fail](images/catfail.png)
 
-+ Double-check whether it is free to use. You can use a reverse image search tool like [TinEye](https://www.tineye.com/){:target="_blank"} or [Image Raider](https://www.imageraider.com/){:target="_blank"} to check for any further usage rights. Here, I copied the image link from the Google search, pasted it into TinEye, and pressed **Search**. As you can see, the image has been used many times (781!) all over the internet, so it is likely that it is free to use. If in doubt, you should write to the owner and ask for permission.
++ 反复检查它是否可自由使用。 您可以使用 [TinEye](https://www.tineye.com/){:target="_blank"} </0>{:target="_blank"} 或 [Image Raider](https://www.imageraider.com/){:target="_blank"} 之类的反向图片搜索工具(用图片搜图片或信息，译注)，以检查您是否有使用权限。 这里我从 Google 搜索中复制了图像链接，并将其粘贴到 TinEye 中，然后按 **Search**。 如您所见，该图像已在互联网上使用了很多次(781次!)，因此很可能是免费使用的。 如果对是否能使用有疑问，您应该给所有者写信，并请求授权。
 
-![Reverse Search](images/reversesearch.png)
+![反向搜索](images/reversesearch.png)
 
-### Online safety
+### 线上安全
 
-If you [accidentally discover an image you find upsetting](https://www.thinkuknow.co.uk/11_13/Need-advice/Things-you-see-online/){:target="_blank"}, close your browser immediately and tell an adult.
+如果你 [偶然发现某个令你不舒服或不安的图像](https://www.thinkuknow.co.uk/11_13/Need-advice/Things-you-see-online/){:target="_ blank"}，立即关闭浏览器并告诉家人。
