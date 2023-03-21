@@ -1,9 +1,9 @@
 ---
-title: उपयोग करने के लिए अनुमतियों के साथ चित्र ढूँढना
+title: चित्र खोजना जिन्हें इस्तमाल करने की अनुमति हों
 hero_image: images/banner.png
-description: ऎसे छवियों को कैसे खोंजे जिन्हें इस्तमाल करने की अनुमति हों
+description: ऐसे चित्रों को कैसे खोंजे जिन्हें इस्तमाल करने की अनुमति हो
 theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 0 #possible values: 1, 2 or 3
+duration: 2 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
 copyedit: false
@@ -13,4 +13,4 @@ technologies:
 site_areas:
 steps:
   - 
-    title: ऎसे छवियों को खोजना जिन्हें इस्तमाल करने की अनुमति हों
+    title: चित्र खोजना जिन्हें इस्तमाल करने की अनुमति हों
