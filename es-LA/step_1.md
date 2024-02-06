@@ -2,7 +2,7 @@ Debido a la ley de derechos de autor, no puedes usar todo lo que encuentres en l
 
 ### Qué dice la ley de derechos de autor
 
-La ley de derechos de autor está diseñada para proteger a los creadores de obras artísticas, literarias, musicales y dramáticas para evitar que su trabajo sea explotado o mal utilizado. Esto significa que la ley de derechos de autor se aplica a todo tipo de materiales fuera de línea y en línea, incluidas imágenes e ilustraciones.
+La ley de derechos de autor está diseñada para proteger a los creadores de obras artísticas, literarias, musicales y dramáticas para evitar que su trabajo sea explotado o mal utilizado. Esto significa que la ley de derechos de autor se aplica a todo tipo de materiales sin conexión y en línea, incluidas imágenes e ilustraciones.
 
 Cualquier persona que use un trabajo protegido por derechos de autor sin el permiso del propietario es culpable de una infracción de los derechos de autor. Esto a veces es cierto incluso aunque se hayan cambiado muchas cosas en el trabajo.
 
